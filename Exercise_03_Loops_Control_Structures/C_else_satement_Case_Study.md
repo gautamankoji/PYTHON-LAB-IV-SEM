@@ -35,6 +35,10 @@ for num in range(start, end + 1):
 print("Prime numbers between", start, "and", end, "are:", primeNumbers)
 ```
 
+```output
+Prime numbers between 10 and 20 are: [11, 13, 17, 19]
+```
+
 ## Explanation
 
 - The outer loop iterates over each number in the specified range.
