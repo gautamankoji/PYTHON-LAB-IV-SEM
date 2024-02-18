@@ -49,3 +49,4 @@ Prime numbers between 10 and 20 are: [11, 13, 17, 19]
 ## Conclusion
 
 The provided Python program efficiently identifies prime numbers within a specified range using a nested loop structure. It demonstrates a practical application of nested loops and conditional statements in solving mathematical problems.
+ 
